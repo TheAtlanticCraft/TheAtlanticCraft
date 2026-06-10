@@ -1,5 +1,5 @@
 <p align="center">
-<sub>${\texttt{\color{#C4DAE7} ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀}}$ <br>
+<sub>${\texttt{\color{#1C3B6B} ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀}}$ <br>
 
 <p align="center">
   <img src="https://64.media.tumblr.com/0a03136d9c770a916cfd395cec42ccb7/bec824fc8a3ef666-3d/s1280x1920/4941dff9c2c7f819a118ec284cc80817ffb2f9aa.pnj" width="600"/>
@@ -12,6 +12,6 @@
 <p align="center">
 　
 <p align="center">
-<sub>${\texttt{\color{#C4DAE7} ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀}}$ <br>
+<sub>${\texttt{\color{#1C3B6B} ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀}}$ <br>
 <p align="center">
 　
