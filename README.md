@@ -4,15 +4,13 @@
 <img width="450" alt="artist" src="https://64.media.tumblr.com/8a2599492eb5a617b94133fd351b5d53/227b6f4df46915da-4a/s1280x1920/4f18d7bb28c9fad5450f5c41b36e0ce1d9217e4e.gifv" />
  
 <p align="center">
-${{\color{#}\texttt{꒰ㅤ}}}$
-${{\color{#689CC5}\texttt{he⠀,⠀himㅤ}}}$
-${{\color{#91A2AA}\texttt{ㅤ9teen⠀♡}}}$
-${{\color{#}\texttt{ㅤ꒱}}}$<br>
-<p align="center">
-${{\color{#91A2AA}\texttt{offtab}}}$
-${{\color{#}\texttt{／}}}$
-${{\color{#689CC5}\texttt{afk⠀　}}}$
-${{\color{#91A2AA}\texttt{w2i⠀　}}}$
-${{\color{#689CC5}\texttt{suspected}}}$
-${{\color{#91A2AA}\texttt{AVPD⠀　}}}$
-${{\color{#}\texttt{iwc}}}$<br>
+${{\color{#5B3655}\texttt{infoㅤ}}}$
+${{\color{#684067}\texttt{infoㅤ}}}$
+${{\color{#87485D}\texttt{infoㅤ}}}$
+${{\color{#A04E4E}\texttt{infoㅤ}}}$
+${{\color{#B04F47}\texttt{info}}}$<br>
+${{\color{#5B3655}\texttt{infoㅤ}}}$
+${{\color{#684067}\texttt{infoㅤ}}}$
+${{\color{#87485D}\texttt{infoㅤ}}}$
+${{\color{#A04E4E}\texttt{infoㅤ}}}$
+${{\color{#B04F47}\texttt{info}}}$<br>
