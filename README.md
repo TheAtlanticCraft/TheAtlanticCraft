@@ -17,7 +17,6 @@ ${{\color{#}\texttt{ifㅤ}}}$
 ${{\color{#}\texttt{imㅤ}}}$
 ${{\color{#}\texttt{aloneㅤ}}}$
 ${{\color{#}\texttt{otherwiseㅤ}}}$
-${{\color{#}\texttt{pleaseㅤ}}}$
 ${{\color{#}\texttt{ask}}}$<br>
 
 <p align="center">
