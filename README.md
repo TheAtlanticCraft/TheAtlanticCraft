@@ -6,7 +6,7 @@
 <p align="center">
 ${{\color{#}\texttt{adult ◞   }}}$
 ${{\color{#}\texttt{usually  }}}$
-${{\color{#}\texttt{offtab  }}}$
+${{\color{#}\texttt{offtabㅤ}}}$
 ${{\color{#}\texttt{w2i !ㅤ}}}$
 ${{\color{#}\texttt{minors  }}}$
 ${{\color{#}\texttt{iwc}}}$<br>
