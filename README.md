@@ -6,17 +6,17 @@
 <p align="center">
 ${{\color{#}\texttt{adult ◞   }}}$
 ${{\color{#}\texttt{usually  }}}$
-${{\color{#}\texttt{offtabㅤ}}}$
+${{\color{#}\texttt{offtab  }}}$
 ${{\color{#}\texttt{w2i !ㅤ}}}$
-${{\color{#}\texttt{minorsㅤ}}}$
+${{\color{#}\texttt{minors  }}}$
 ${{\color{#}\texttt{iwc}}}$<br>
-${{\color{#}\texttt{c+hㅤ}}}$
-${{\color{#}\texttt{isㅤ}}}$
-${{\color{#}\texttt{okㅤ}}}$
-${{\color{#}\texttt{ifㅤ}}}$
-${{\color{#}\texttt{imㅤ}}}$
-${{\color{#}\texttt{aloneㅤ}}}$
-${{\color{#}\texttt{otherwiseㅤ}}}$
+${{\color{#}\texttt{c+h  }}}$
+${{\color{#}\texttt{is  }}}$
+${{\color{#}\texttt{ok  }}}$
+${{\color{#}\texttt{if  }}}$
+${{\color{#}\texttt{im  }}}$
+${{\color{#}\texttt{alone  }}}$
+${{\color{#}\texttt{otherwise  }}}$
 ${{\color{#}\texttt{ask}}}$<br>
 
 <p align="center">
