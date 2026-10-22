@@ -14,3 +14,4 @@ ${{\color{#684067}\texttt{infoㅤ}}}$
 ${{\color{#87485D}\texttt{infoㅤ}}}$
 ${{\color{#A04E4E}\texttt{infoㅤ}}}$
 ${{\color{#B04F47}\texttt{info}}}$<br>
+${{\color{#5B3655}\texttt{𓎟𓎟𓎟𓎟}}}$
