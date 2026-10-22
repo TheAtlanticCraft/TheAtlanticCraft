@@ -4,13 +4,13 @@
  
 <p align="center">
 ${{\color{#9B4013}\texttt{infoㅤ}}}$
-${{\color{#884B27}\texttt{infoㅤ}}}$
-${{\color{#785538}\texttt{infoㅤ}}}$
-${{\color{#65604C}\texttt{infoㅤ}}}$
-${{\color{#}\texttt{info}}}$<br>
-${{\color{#}\texttt{infoㅤ}}}$
-${{\color{#}\texttt{infoㅤ}}}$
-${{\color{#}\texttt{infoㅤ}}}$
-${{\color{#}\texttt{infoㅤ}}}$
-${{\color{#}\texttt{info}}}$<br>
+${{\color{#7D5233}\texttt{infoㅤ}}}$
+${{\color{#66604C}\texttt{infoㅤ}}}$
+${{\color{#4D6F66}\texttt{infoㅤ}}}$
+${{\color{#238892}\texttt{info}}}$<br>
+${{\color{#9B4013}\texttt{infoㅤ}}}$
+${{\color{#7D5233}\texttt{infoㅤ}}}$
+${{\color{#66604C}\texttt{infoㅤ}}}$
+${{\color{#4D6F66}\texttt{infoㅤ}}}$
+${{\color{#238892}\texttt{info}}}$<br>
 ${{\color{#}\texttt{𓎟𓎟𓎟𓎟}}}$
