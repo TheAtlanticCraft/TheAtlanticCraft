@@ -4,20 +4,18 @@
 <p align="center">
 <img width="420" alt="ac:zephytistic" src="https://64.media.tumblr.com/9785c3efa54b25c4382a566f0d89c68d/2f03a228420d9049-00/s640x960/8cb3a327d1ca9a2cf63be60c23f66265a78d674e.gifv" />
 <p align="center">
-${{\color{#}\texttt{adult ◞   }}}$
-${{\color{#}\texttt{usually  }}}$
-${{\color{#}\texttt{offtabㅤ}}}$
-${{\color{#}\texttt{w2i !ㅤ}}}$
-${{\color{#}\texttt{minors  }}}$
-${{\color{#}\texttt{iwc}}}$<br>
-${{\color{#}\texttt{c+h  }}}$
-${{\color{#}\texttt{is  }}}$
-${{\color{#}\texttt{ok  }}}$
-${{\color{#}\texttt{if  }}}$
-${{\color{#}\texttt{im  }}}$
-${{\color{#}\texttt{alone  }}}$
-${{\color{#}\texttt{otherwise  }}}$
-${{\color{#}\texttt{ask}}}$<br>
-
-<p align="center">
+${{\color{#9B4013}\texttt{adult ◞   }}}$
+${{\color{#7D5233}\texttt{usually  }}}$
+${{\color{#66604C}\texttt{offtabㅤ}}}$
+${{\color{#66604C}\texttt{w2i !ㅤ}}}$
+${{\color{#4D6F66}\texttt{minors  }}}$
+${{\color{#238892}\texttt{iwc}}}$<br>
+${{\color{#9B4013}\texttt{c+h  }}}$
+${{\color{#9B4013}\texttt{is  }}}$
+${{\color{#7D5233}\texttt{ok  }}}$
+${{\color{#7D5233}\texttt{if  }}}$
+${{\color{#66604C}\texttt{im  }}}$
+${{\color{#66604C}\texttt{alone  }}}$
+${{\color{#4D6F66}\texttt{otherwise  }}}$
+${{\color{#238892}\texttt{ask}}}$<br>
 ${{\color{#66604C}\texttt{𓎟𓎟𓎟𓎟}}}$
