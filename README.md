@@ -1,7 +1,18 @@
-ㅤㅤ<br/>
-ㅤㅤ<br/>
+ㅤ<br>
+<h3 align="center"><img align="center" src="https://64.media.tumblr.com/1952550f2f18004cb03d527a763b8425/227b6f4df46915da-2e/s2048x3072/520d46a385137b1aa5b50e7521d3222ee12fa981.webp" height="40px" alt="text"/>
+  <p align="center">
+<img width="450" alt="artist" src="https://64.media.tumblr.com/8a2599492eb5a617b94133fd351b5d53/227b6f4df46915da-4a/s1280x1920/4f18d7bb28c9fad5450f5c41b36e0ce1d9217e4e.gifv" />
+ 
 <p align="center">
-<img src="https://64.media.tumblr.com/074fae738a94588941e3b706f3d81ca0/1af5e6779599ffd8-bf/s75x75_c1/d1a1b8929a3524b25bdb1d16ebc0671c55563969.gifv" alt="stamp">
-<img src="https://64.media.tumblr.com/386d7d446fc854e10ae0ca39dfd809b2/1af5e6779599ffd8-70/s75x75_c1/a3a99867ada261892336cf912e1a1df499113885.gifv" alt="stamp">
-ㅤㅤ<br/>
-ㅤㅤ<br/>
+${{\color{#}\texttt{꒰ㅤ}}}$
+${{\color{#689CC5}\texttt{he⠀,⠀himㅤ}}}$
+${{\color{#91A2AA}\texttt{ㅤ9teen⠀♡}}}$
+${{\color{#}\texttt{ㅤ꒱}}}$<br>
+<p align="center">
+${{\color{#91A2AA}\texttt{offtab}}}$
+${{\color{#}\texttt{／}}}$
+${{\color{#689CC5}\texttt{afk⠀　}}}$
+${{\color{#91A2AA}\texttt{w2i⠀　}}}$
+${{\color{#689CC5}\texttt{suspected}}}$
+${{\color{#91A2AA}\texttt{AVPD⠀　}}}$
+${{\color{#}\texttt{iwc}}}$<br>
