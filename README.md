@@ -5,7 +5,7 @@
 <img width="420" alt="ac:zephytistic" src="https://64.media.tumblr.com/9785c3efa54b25c4382a566f0d89c68d/2f03a228420d9049-00/s640x960/8cb3a327d1ca9a2cf63be60c23f66265a78d674e.gifv" />
 <p align="center">
 ${{\color{#}\texttt{adult ◞   }}}$
-${{\color{#}\texttt{usuallyㅤ}}}$
+${{\color{#}\texttt{usually  }}}$
 ${{\color{#}\texttt{offtabㅤ}}}$
 ${{\color{#}\texttt{w2i !ㅤ}}}$
 ${{\color{#}\texttt{minorsㅤ}}}$
