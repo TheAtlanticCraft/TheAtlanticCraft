@@ -7,7 +7,6 @@
 ${{\color{#}\texttt{adult ◞   }}}$
 ${{\color{#}\texttt{usuallyㅤ}}}$
 ${{\color{#}\texttt{offtabㅤ}}}$
-${{\color{#}\texttt{sooㅤ}}}$
 ${{\color{#}\texttt{w2i !ㅤ}}}$
 ${{\color{#}\texttt{minorsㅤ}}}$
 ${{\color{#}\texttt{iwc}}}$<br>
