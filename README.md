@@ -1,7 +1,6 @@
 ㅤ<br>
-<h3 align="center"><img align="center" src="https://64.media.tumblr.com/1952550f2f18004cb03d527a763b8425/227b6f4df46915da-2e/s2048x3072/520d46a385137b1aa5b50e7521d3222ee12fa981.webp" height="40px" alt="text"/>
   <p align="center">
-<img width="450" alt="artist" src="https://64.media.tumblr.com/8a2599492eb5a617b94133fd351b5d53/227b6f4df46915da-4a/s1280x1920/4f18d7bb28c9fad5450f5c41b36e0ce1d9217e4e.gifv" />
+<img width="450" alt="artist" src="https://64.media.tumblr.com/9785c3efa54b25c4382a566f0d89c68d/44fed3e842cc8720-97/s640x960/5dbea7bd8a58f28d6b5dc1c3c6775cc236adbf00.gifv" />
  
 <p align="center">
 ${{\color{#5B3655}\texttt{infoㅤ}}}$
