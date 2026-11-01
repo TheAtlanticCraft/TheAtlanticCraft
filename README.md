@@ -16,21 +16,21 @@
 <p align="center">
 ${{\color{#}\texttt{꒰ㅤ}}}$
 ${{\color{#383838}\texttt{she⠀,}}}$
-${{\color{#494949}\texttt{⠀himㅤ}}}$
+${{\color{#494949}\texttt{⠀heㅤ}}}$
 <img align="center" src="https://64.media.tumblr.com/7a4ab0526b6d873ed2b6cdb221ab880c/e156d5ccc29e3103-3c/s1280x1920/596ca4b5620a1ad61f6b5b4a113e0c4a8ea21c6d.pnj" height="30px" alt="hachi"/>
 ${{\color{#5A5858}\texttt{ㅤ9}}}$
 ${{\color{#666666}\texttt{teen}}}$
 ${{\color{#7B7B7B}\texttt{⠀☆}}}$
 ${{\color{#}\texttt{ㅤ꒱}}}$<br>
 <p align="center">
-${{\color{#821517}\texttt{offtab}}}$
+${{\color{#383838}\texttt{offtab}}}$
 ${{\color{#}\texttt{／}}}$
-${{\color{#C21515}\texttt{afk⠀　}}}$
-${{\color{#F90101}\texttt{w2i⠀　}}}$
-${{\color{#F90101}\texttt{c+h⠀　}}}$
-${{\color{#FF585A}\texttt{i}}}$
-${{\color{#FF585A}\texttt{free}}}$
-${{\color{#FFA2A2}\texttt{block}}}$<br>
+${{\color{#494949}\texttt{afk⠀　}}}$
+${{\color{#5A5858}\texttt{w2i⠀　}}}$
+${{\color{#5A5858}\texttt{c+h⠀　}}}$
+${{\color{#666666}\texttt{i}}}$
+${{\color{#666666}\texttt{free}}}$
+${{\color{#7B7B7B}\texttt{block}}}$<br>
 <p align="center">
 ${{\color{#}\texttt{︵‿︵‿୨✦୧‿︵‿︵}}}$<br>
 
