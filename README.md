@@ -17,7 +17,7 @@
 ${{\color{#}\texttt{꒰ㅤ}}}$
 ${{\color{#821517}\texttt{she⠀,}}}$
 ${{\color{#C21515}\texttt{⠀himㅤ}}}$
-<img align="center" src="https://64.media.tumblr.com/fb0a9acb0518432021d540634d76fb01/d8485cd6475050ad-8a/s2048x3072/b67a6169634b97d7fd60e2d3f5f878dfdbc92d1e.pnj" height="30px" alt="hachi"/>
+<img align="center" src="https://64.media.tumblr.com/7a4ab0526b6d873ed2b6cdb221ab880c/e156d5ccc29e3103-3c/s1280x1920/596ca4b5620a1ad61f6b5b4a113e0c4a8ea21c6d.pnj" height="30px" alt="hachi"/>
 ${{\color{#F90101}\texttt{ㅤ9}}}$
 ${{\color{#FF585A}\texttt{teen}}}$
 ${{\color{#FFA2A2}\texttt{⠀☆}}}$
