@@ -8,7 +8,7 @@
                           じしˍ,)ノ
 
 -->
-  <h3 align="left"><img align="left" src="https://64.media.tumblr.com/6d937e695532950244b7befcf1e0c148/cab4f6bd34466f29-03/s1280x1920/d3f2f1e3127926a12e707b9fb12315832a0e6bbf.pnj" height="510px" alt="mreow"/> <p align="center"> <img src="https://komarev.com/ghpvc/?username=nightmareofy0u&style=flat-square&color=333333&style=plastic&label=󠁪󠁪󠁝󠁝󠁵󠁵𑄝੭ mew" alt=""/>
+  <h3 align="left"><img align="left" src="https://64.media.tumblr.com/6d937e695532950244b7befcf1e0c148/cab4f6bd34466f29-03/s1280x1920/d3f2f1e3127926a12e707b9fb12315832a0e6bbf.pnj" height="510px" alt="mreow"/> <p align="center"> <img src="https://komarev.com/ghpvc/?username=pawesomerz&style=flat-square&color=333333&style=plastic&label=󠁪󠁪󠁝󠁝󠁵󠁵𑄝੭ mew" alt=""/>
 </p>
 <p align="center">
 <img src="https://64.media.tumblr.com/21c28387eeabd9a92a8fbd8f1979b7ec/72f586a7f1a51f24-1d/s1280x1920/da1e0ca8216b2a9303ae2938fa4698887c5bd24e.pnj" width="400" align="middle">
