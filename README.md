@@ -15,12 +15,12 @@
 
 <p align="center">
 ${{\color{#}\texttt{꒰ㅤ}}}$
-${{\color{#252525}\texttt{she⠀,}}}$
-${{\color{#383838}\texttt{⠀himㅤ}}}$
+${{\color{#383838}\texttt{she⠀,}}}$
+${{\color{#494949}\texttt{⠀himㅤ}}}$
 <img align="center" src="https://64.media.tumblr.com/7a4ab0526b6d873ed2b6cdb221ab880c/e156d5ccc29e3103-3c/s1280x1920/596ca4b5620a1ad61f6b5b4a113e0c4a8ea21c6d.pnj" height="30px" alt="hachi"/>
-${{\color{#494949}\texttt{ㅤ9}}}$
-${{\color{#5A5858}\texttt{teen}}}$
-${{\color{#666666}\texttt{⠀☆}}}$
+${{\color{#5A5858}\texttt{ㅤ9}}}$
+${{\color{#666666}\texttt{teen}}}$
+${{\color{#7B7B7B}\texttt{⠀☆}}}$
 ${{\color{#}\texttt{ㅤ꒱}}}$<br>
 <p align="center">
 ${{\color{#821517}\texttt{offtab}}}$
