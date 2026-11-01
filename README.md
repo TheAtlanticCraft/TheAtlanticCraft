@@ -11,7 +11,7 @@
   <h3 align="left"><img align="left" src="https://64.media.tumblr.com/6d937e695532950244b7befcf1e0c148/cab4f6bd34466f29-03/s1280x1920/d3f2f1e3127926a12e707b9fb12315832a0e6bbf.pnj" height="510px" alt="mreow"/> <p align="center"> <img src="https://komarev.com/ghpvc/?username=pawesomerz&style=flat-square&color=333333&style=plastic&label=󠁪󠁪󠁝󠁝󠁵󠁵𑄝੭ mew" alt=""/>
 </p>
 <p align="center">
-<img src="https://64.media.tumblr.com/e7afb4bb1725a33cdbba63a20223fafc/5544d12314051a35-86/s1280x1920/41f875fb0285f737d8be854ce70beb3cf6105b31.pnj" width="400" align="middle">
+<img src="https://64.media.tumblr.com/21c28387eeabd9a92a8fbd8f1979b7ec/cab4f6bd34466f29-7e/s1280x1920/d6abb62108738607ec713f25329b76fc8665b7dd.pnj" width="400" align="middle">
 
 <p align="center">
 ${{\color{#}\texttt{꒰ㅤ}}}$
