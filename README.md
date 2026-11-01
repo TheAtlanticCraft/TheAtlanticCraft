@@ -31,7 +31,7 @@ ${{\color{#FF585A}\texttt{avoidant⠀　}}}$
 ${{\color{#FF585A}\texttt{c+h⠀　}}}$
 ${{\color{#FFA2A2}\texttt{iwc}}}$<br>
 <p align="center">
-${{\color{#}\texttt{︵‿︵‿꒰✦꒱‿︵‿︵}}}$<br>
+${{\color{#}\texttt{︵‿︵‿୨✦୧‿︵‿︵}}}$<br>
 
 <div align="center">
 <a href="https://collidedstars.straw.page/"><img src="https://64.media.tumblr.com/2118f07c70ffda2b0c4df3ee30061d41/cab4f6bd34466f29-dc/s500x750/99f9548c4a9c51c9e0cd58c77ab58bc33306f3df.pnj"width="160"></img></a> ㅤ<a href="https://porksoda.atabook.org/"><img src="https://64.media.tumblr.com/18afaec3dd066132850f17b6192662e0/cab4f6bd34466f29-90/s400x600/7475b881752e2f8ee4428b9bd22f050a62411365.pnj"width="150"></img><br>
