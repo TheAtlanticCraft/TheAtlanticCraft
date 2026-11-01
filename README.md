@@ -24,7 +24,6 @@ ${{\color{#7B7B7B}\texttt{⠀☆}}}$
 ${{\color{#}\texttt{ㅤ꒱}}}$<br>
 <p align="center">
 ${{\color{#383838}\texttt{minors}}}$
-${{\color{#}\texttt{／}}}$
 ${{\color{#494949}\texttt{iwc⠀　}}}$
 ${{\color{#5A5858}\texttt{w2i⠀　}}}$
 ${{\color{#5A5858}\texttt{c+h⠀　}}}$
