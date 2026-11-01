@@ -34,7 +34,7 @@ ${{\color{#FFA2A2}\texttt{iwc}}}$<br>
 ${{\color{#}\texttt{︵‿︵‿୨♡୧‿︵‿︵}}}$<br>
 
 <div align="center">
-<a href="https://rentry.co/mattsworld"><img src="https://64.media.tumblr.com/6547f4412059c601f6a51e01e9113a83/3538ed3b6c853ad0-7f/s400x600/c1cd5c1ac956841f06be41c0647cd16398d17a9f.pnj"width="110"></img></a> ㅤ<a href="https://porksoda.atabook.org/"><img src="https://64.media.tumblr.com/18afaec3dd066132850f17b6192662e0/cab4f6bd34466f29-90/s400x600/7475b881752e2f8ee4428b9bd22f050a62411365.pnj"width="150"></img><br>
+<a href="https://collidedstars.straw.page/"><img src="https://64.media.tumblr.com/2118f07c70ffda2b0c4df3ee30061d41/cab4f6bd34466f29-dc/s500x750/99f9548c4a9c51c9e0cd58c77ab58bc33306f3df.pnj"width="160"></img></a> ㅤ<a href="https://porksoda.atabook.org/"><img src="https://64.media.tumblr.com/18afaec3dd066132850f17b6192662e0/cab4f6bd34466f29-90/s400x600/7475b881752e2f8ee4428b9bd22f050a62411365.pnj"width="150"></img><br>
   <br>
 
 <img src="https://64.media.tumblr.com/e3dd3be2e2bee6ca327dbe12c4163b84/38a58c42f8d8c5e7-b6/s100x200/3e73a81cb78c6fcdb3429175b057f670215f108f.gifv" alt="stamp">
