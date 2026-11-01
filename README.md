@@ -37,6 +37,6 @@ ${{\color{#}\texttt{︵‿︵‿୨♡୧‿︵‿︵}}}$<br>
 <a href="https://collidedstars.straw.page/"><img src="https://64.media.tumblr.com/2118f07c70ffda2b0c4df3ee30061d41/cab4f6bd34466f29-dc/s500x750/99f9548c4a9c51c9e0cd58c77ab58bc33306f3df.pnj"width="160"></img></a> ㅤ<a href="https://porksoda.atabook.org/"><img src="https://64.media.tumblr.com/18afaec3dd066132850f17b6192662e0/cab4f6bd34466f29-90/s400x600/7475b881752e2f8ee4428b9bd22f050a62411365.pnj"width="150"></img><br>
   <br>
 
-<img src="https://64.media.tumblr.com/e3dd3be2e2bee6ca327dbe12c4163b84/38a58c42f8d8c5e7-b6/s100x200/3e73a81cb78c6fcdb3429175b057f670215f108f.gifv" alt="stamp">
-<img src="https://64.media.tumblr.com/2e1289307d548ce1d8b0ed9e63b39ea3/38a58c42f8d8c5e7-a4/s100x200/0591650e812f02d34e82d53c1652399a0c9c4e87.pnj" alt="stamp">
-<img src="https://64.media.tumblr.com/d6ced4413ebb29164b19e994566b9eb3/38a58c42f8d8c5e7-67/s100x200/17c5c928e8f775a13218f8789fe8347a2177cbcd.webp" alt="stamp">
+<img src="https://64.media.tumblr.com/0e790e69d4e72d030292a3e165868522/cab4f6bd34466f29-60/s100x200/af7f2f889d2a6bf160f93dfd25cfe2439a84ba8d.gifv" alt="stamp">
+<img src="https://64.media.tumblr.com/b25fa5ac641f99221514cf1c19be6ad7/cab4f6bd34466f29-75/s100x200/70fe7e03b4a9c75124ca4c08b8771e8056cb5f84.pnj" alt="stamp">
+<img src="https://64.media.tumblr.com/1d82b034f53d52bb23724e0c0645c5cc/cab4f6bd34466f29-8f/s100x200/e3613b87108405e1d237482a38b7f2b3ea2f7327.gifv" alt="stamp">
