@@ -15,7 +15,7 @@
 
 <p align="center">
 ${{\color{#}\texttt{꒰ㅤ}}}$
-${{\color{#821517}\texttt{he⠀,}}}$
+${{\color{#821517}\texttt{she⠀,}}}$
 ${{\color{#C21515}\texttt{⠀himㅤ}}}$
 <img align="center" src="https://64.media.tumblr.com/fb0a9acb0518432021d540634d76fb01/d8485cd6475050ad-8a/s2048x3072/b67a6169634b97d7fd60e2d3f5f878dfdbc92d1e.pnj" height="30px" alt="hachi"/>
 ${{\color{#F90101}\texttt{ㅤ9}}}$
@@ -27,9 +27,10 @@ ${{\color{#821517}\texttt{offtab}}}$
 ${{\color{#}\texttt{／}}}$
 ${{\color{#C21515}\texttt{afk⠀　}}}$
 ${{\color{#F90101}\texttt{w2i⠀　}}}$
-${{\color{#FF585A}\texttt{avoidant⠀　}}}$
-${{\color{#FF585A}\texttt{c+h⠀　}}}$
-${{\color{#FFA2A2}\texttt{iwc}}}$<br>
+${{\color{#F90101}\texttt{c+h⠀　}}}$
+${{\color{#FF585A}\texttt{i}}}$
+${{\color{#FF585A}\texttt{free}}}$
+${{\color{#FFA2A2}\texttt{block}}}$<br>
 <p align="center">
 ${{\color{#}\texttt{︵‿︵‿୨✦୧‿︵‿︵}}}$<br>
 
